@@ -1,5 +1,5 @@
 {
-  "name": "service-baseline",
+  "name": "border-events-bilingual",
   "private": true,
   "scripts": {
     "test": "node test_service.js"
